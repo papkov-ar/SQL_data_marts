@@ -1,2 +1,2 @@
-# SQL_data_marts-
+# SQL_data_marts
 Примеры SQL запросов для создания витрин данных
